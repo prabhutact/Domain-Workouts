@@ -1,3 +1,3 @@
 const test={
-  age:30;
+  age:50;
 }
