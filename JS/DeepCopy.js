@@ -1,3 +1,8 @@
 const person = {
-    name : 'prabhu'
+    name : 'prabhu',
+    age: 30,
+    Address : {
+        city : "Chennai"
+    }
+
 }
